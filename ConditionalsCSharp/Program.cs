@@ -179,8 +179,6 @@ namespace ConditionalsCSharp
                     Console.WriteLine(30);
                     break;                  
             }
-            //8.
-
         }
         }
     }
